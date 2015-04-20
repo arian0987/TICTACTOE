@@ -3,7 +3,7 @@ player::player()
 {
     //ctor
 }
-
+//edited
 player::~player()
 {
     //dtor
